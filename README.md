@@ -1,1 +1,1 @@
-# ai-life-manager-web-app
+# Ai Life Manager Web App
